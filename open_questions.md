@@ -1,1 +1,2 @@
 - Do we need to still support "stacks"?
+- Should users always upload everything?  Or are we going to allow this delta-upload thing anymore?
